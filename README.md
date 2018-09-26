@@ -6,4 +6,4 @@ More specifically, we would like to identify songs that pass our 20-week on-boar
 
 Click on the Jupyter Notebook file to view the project.
 
-Click on this Youtube video if you just want a brief walk-through of the project framework https://www.youtube.com/watch?v=zZLr956VLDY
+Click on this Youtube video for a brief walk-through of the project framework https://www.youtube.com/watch?v=zZLr956VLDY
